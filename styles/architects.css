@@ -10,6 +10,12 @@
     color: #727272;
 }
 
+.common-title-style {
+    color: #131313;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* main style */
 main {
     max-width: 1440px;
@@ -46,11 +52,7 @@ header {
     padding: 50px 240px;
 }
 
-.h-title {
-    color: #131313;
-    font-size: 2.8rem;
-    font-weight: 700;
-}
+
 
 .banner-content {
     width: 800px;
